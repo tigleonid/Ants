@@ -9,5 +9,7 @@
 # Примеры графиков
 
 ![](https://github.com/tigleonid/Ants/blob/master/Figure_1.png)\
-на этом графике количесвто маток не изменялось\
+На этом графике количесвто маток не изменялось\
 ![](https://github.com/tigleonid/Ants/blob/master/Figure_2.png)\
+![](https://github.com/tigleonid/Ants/blob/master/Figure_3.png)\
+Иногда бывает такое, что семейство вымирает, не хватило еды.
