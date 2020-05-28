@@ -8,4 +8,6 @@
 Программа написана на языке программирования python, а для построния графиков использовал matplotlib.
 # Примеры графиков
 
-![](https://github.com/tigleonid/Ants/blob/master/Figure_1.png)
+![](https://github.com/tigleonid/Ants/blob/master/Figure_1.png)\
+на этом графике количесвто маток не изменялось\
+![](https://github.com/tigleonid/Ants/blob/master/Figure_2.png)\
